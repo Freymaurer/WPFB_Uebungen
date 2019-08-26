@@ -15,7 +15,7 @@
 
 //      Task 2
 // Definiere eine Funktion, welche den Wert eines Record Types aus dem Quotienten einer Strecke und Zeit berechnet und ein Objekt des Typs Geschwindigkeit
-// mit diesem Wert erstellt. Die Felder EinheitStrecke und EinheitZeit können beliebig gewählt werden.
+// mit diesem Wert erstellt. Die Felder EinheitStrecke und EinheitZeit koennen beliebig gewaehlt werden.
 
 
 
@@ -32,13 +32,13 @@
 
 //      Task 5
 // Definiere eine Klasse namens ProtoFahrzeug mit den Eigenschaften Geschwindigkeit (Record Type aus Task 1) und NumRaeder als int. 
-// Sie soll außerdem ueber die Methode GeschwindigkeitÄndern mit dem Parameter value vom Typ float verfuegen. 
-// Diese verändert die Eigenschaft Geschwindigkeit um den Wert des Parameters value.
+// Sie soll ausserdem ueber die Methode Geschwindigkeitaendern mit dem Parameter value vom Typ float verfuegen. 
+// Diese veraendert die Eigenschaft Geschwindigkeit um den Wert des Parameters value.
 
 
 
 //      Task 6
-// Unser Fahrzeugt ist natürlich noch nicht fertig und muss noch "getuned" werden. Copy-Pasted Euer Ergebnis von Task 5 und bindest es an Fahrzeug.
+// Unser Fahrzeugt ist natuerlich noch nicht fertig und muss noch "getuned" werden. Copy-Pasted Euer Ergebnis von Task 5 und bindest es an Fahrzeug.
 // Implementiere das zuvor definierte Interface Besitzer.
 // Erbe die zuvor definierte Klase Motor (Stichwort inherit).
 // Der primaere Kosntruktor soll einen Parameter fuer alle member haben aber erstelle zusaetzlich einen alternativen Konstruktor, welcher einen vorgegebenen Wert fuer
@@ -61,7 +61,7 @@
 
 //      Task 8
 // Definiere eine Funktion namens geschwindigkeitsTest mit dem Parameter 'grenze' vom Typ float und dem Parameter 'fahrzeug'. 
-// Diese Funktion soll fuer alle Typen, welche von der Klasse Fahrzeug erben ueberpruefen, ob die Geschwindigkeit groeßer ist als die 'grenze'
+// Diese Funktion soll fuer alle Typen, welche von der Klasse Fahrzeug erben ueberpruefen, ob die Geschwindigkeit groesser ist als die 'grenze'
 // und wenn ja, eine Fehlermeldung mit "Die Geschwindigkeit ist zu hoch!" geben.
 
 
@@ -74,5 +74,5 @@
 
 //      Task 10 (EXTRA)
 // Nimm die funktion aus Task 8.
-// Wenn die Fehlermeldung gegeben wird fange diese ab und printe einen Bußgeldbescheid, der auf den Besitzer des Fahrzeugs ausgestellt ist.
-// (open System wird hierfür benötigt)
+// Wenn die Fehlermeldung gegeben wird fange diese ab und printe einen Bussgeldbescheid, der auf den Besitzer des Fahrzeugs ausgestellt ist.
+// (open System wird hierfuer benoetigt)
