@@ -5,7 +5,7 @@
 
 
 // Task 1.2
-// Deklariere eine Funktion die drei Zahlen als Parameter bekommt. Die groeﬂte der drei Zahlen soll als Ergebnis ausgegeben werden. Benutze dafuer die 'if ... else' oder 'match' Funktion.
+// Deklariere eine Funktion die drei Zahlen als Parameter bekommt. Die groesste der drei Zahlen soll als Ergebnis ausgegeben werden. Benutze dafuer die 'if ... else' oder 'match' Funktion.
 
 
 
