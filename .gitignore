@@ -333,3 +333,4 @@ ASALocalRun/
 .env/packages
 .env/paket-files
 /.ionide
+/notebooks/.ipynb_checkpoints
