@@ -132,11 +132,6 @@
 
 
 // Task 3.9:  ---------------------------------------------------------------------------------------------------
-// Deklariere eine beliebige Funktion mit der Signatur (int -> float -> string -> string)
-
-
-
-// Task 3.10:  ---------------------------------------------------------------------------------------------------
 // Deklariere eine Funktion die als Input zwei Parameter vom Typ Floats, einen Vergleichsoperator z.B. 
 // (<, >, = ), und einen Parameter vom Typ Boolean akzeptiert. Das Ergebnis aus der Anwendung des angegebenen 
 // Operators auf die numerischen Parameter soll mit dem Parameter vom Typ Boolean auf Gleichheit ueberprueft werden.
